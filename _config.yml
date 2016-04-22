@@ -1,0 +1,28 @@
+name: righteousfruit
+favicon: null
+layout_spectrum: 0.9513670729938895
+typography_spectrum: 0.13487028959207237
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7366616958752275
+  lightness: 0.8106251421850175
+  saturation: 0.7383918999694288
+  rhythmicContrast: 0.3597696132492274
+purpose: []
