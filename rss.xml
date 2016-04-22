@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[righteousfruit]]></title>
         <description><![CDATA[righteousfruit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/righteousfruit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 08:04:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 08:10:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/righteousfruit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A HOLY SPRINKLE</p>]]></description>
+            <link>https://thegrid.ai/righteousfruit/a-holy-sprinkle/index.html</link>
+            <guid isPermaLink="false">2256c5b6-fc71-4f79-9b4b-e0a22a54c59c</guid>
+            <pubDate>Fri, 22 Apr 2016 08:10:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eat Like A Chicken]]></title>
             <description><![CDATA[<p>Our greatest joy in having chickens is collecting the softly hued eggs every day. In fact, we enjoy it so much as a family, we had to divide up the week and assign one 'egg collecting' day per person. Sunday is my day. I love going outside as they greet me with their squawks and squeaks. I am their heroin, releasing them from their coop into the wide world of bugs!</p>]]></description>
-            <link>undefinedeat-like-a-chicken/index.html</link>
+            <link>https://thegrid.ai/righteousfruit/eat-like-a-chicken/index.html</link>
             <guid isPermaLink="false">8635382f-3c6f-4d40-8aab-6468b8488d20</guid>
             <pubDate>Fri, 22 Apr 2016 08:04:24 GMT</pubDate>
         </item>
